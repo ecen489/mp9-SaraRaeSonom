@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750309865049",
+    "firebase_url": "https://workdamnit-mp9.firebaseio.com",
+    "project_id": "workdamnit-mp9",
+    "storage_bucket": "workdamnit-mp9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750309865049:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750309865049-mpqju8rqaji03f0bpudhi0ppvsffjqm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.mlkit",
+            "certificate_hash": "e65c21017832c5f84055711628f6779dc5e40831"
+          }
+        },
+        {
+          "client_id": "750309865049-f1lsaofhpammakf7mgkg8300fnqruhc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGfLQ8LyTxmbNvC_fbtPIsvHYMsBAZwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750309865049-f1lsaofhpammakf7mgkg8300fnqruhc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
